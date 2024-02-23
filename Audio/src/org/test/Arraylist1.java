@@ -7,6 +7,7 @@ public class Arraylist1 {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		System.out.println("changeg done by shimmi");
+		System.out.println("changing done by shimmi1");
 ArrayList<Integer>as=new ArrayList<Integer>();
 as.add(122);//duplicates are allowed
 as.add(123);//maintain the order
